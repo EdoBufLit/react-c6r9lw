@@ -10,18 +10,60 @@ function Home() {
           <img src="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/que-es-ecommerce.jpeg" alt="" className="home_image" />
 
           <div className="home_row">
-            <Product />
-            <Product />
+            <Product
+            id="123435688"
+              title="Lorem dfhs0oi fbewoibfoiwe knfiouwerhfoiubwerj ejfbuoiwebfouiwe jiwefbuiowebfouwenb 
+              fhewoihfowie fhewo nfioweh"
+              price={11.96}
+              rating={5}
+              image="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/511YVf93vEL._AC_UY500_.jpg"
+            />
+            <Product
+            id="123435688"
+            title="Lorem dfhs0oi fbewoibfoiwe knfiouwerhfoiubwerj ejfbuoiwebfouiwe jiwefbuiowebfouwenb 
+            fhewoihfowie fhewo nfioweh"
+            price={11.96}
+            rating={5}
+            image="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/511YVf93vEL._AC_UY500_.jpg"
+            />
           </div>
 
           <div className="home_row">
-          <Product />
-          <Product />
-          <Product />
+          <Product 
+          id="123435688"
+          title="Lorem dfhs0oi fbewoibfoiwe knfiouwerhfoiubwerj ejfbuoiwebfouiwe jiwefbuiowebfouwenb 
+          fhewoihfowie fhewo nfioweh"
+          price={11.96}
+          rating={5}
+          image="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/511YVf93vEL._AC_UY500_.jpg"
+          />
+          <Product
+          id="123435688"
+          title="Lorem dfhs0oi fbewoibfoiwe knfiouwerhfoiubwerj ejfbuoiwebfouiwe jiwefbuiowebfouwenb 
+          fhewoihfowie fhewo nfioweh"
+          price={11.96}
+          rating={5}
+          image="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/511YVf93vEL._AC_UY500_.jpg"
+          />
+          <Product
+          id="123435688"
+          title="Lorem dfhs0oi fbewoibfoiwe knfiouwerhfoiubwerj ejfbuoiwebfouiwe jiwefbuiowebfouwenb 
+          fhewoihfowie fhewo nfioweh"
+          price={11.96}
+          rating={5}
+          image="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/511YVf93vEL._AC_UY500_.jpg"
+          />
           </div>
 
           <div className="home_row">
-          <Product />
+          <Product
+          id="123435688"
+          title="Lorem dfhs0oi fbewoibfoiwe knfiouwerhfoiubwerj ejfbuoiwebfouiwe jiwefbuiowebfouwenb 
+          fhewoihfowie fhewo nfioweh"
+          price={11.96}
+          rating={5}
+          image="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/511YVf93vEL._AC_UY500_.jpg"
+          />
           </div>
 
         </div>

@@ -12,7 +12,7 @@ function Product() {
           <div className="product_rating">⭐⭐</div>
         </div>
 
-        <img src="" alt="" />
+        <img src="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/511YVf93vEL._AC_UY500_.jpg" alt="" />
         <button>Add To Basket</button>
       </div>
     </div>
