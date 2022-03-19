@@ -35,7 +35,7 @@ function Home() {
           fhewoihfowie fhewo nfioweh"
           price={11.96}
           rating={5}
-          image="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/511YVf93vEL._AC_UY500_.jpg"
+          image="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/src/Rasoio-elettrico-Philips.jpg"
           />
           <Product
           id="123435688"
