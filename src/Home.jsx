@@ -1,12 +1,29 @@
 import React from 'react';
 import "./Home.css"
+import Product from './Product.jsx'
 
 function Home() {
   return (
     <div>
       <div className="home">
         <div className="home_container">
-          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.doofinder.com%2Fit%2Fblog%2Fdefinizione-ecommerce&psig=AOvVaw2ThIFlLt7cxr_8GYwcy4Yl&ust=1647779088815000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICd1tOV0vYCFQAAAAAdAAAAABAJ" alt="" className="home_image" />
+          <img src="https://stackblitz.com/files/react-c6r9lw/github/EdoBufLit/react-c6r9lw/master/que-es-ecommerce.jpeg" alt="" className="home_image" />
+
+          <div className="home_row">
+            <Product />
+            <Product />
+          </div>
+
+          <div className="home_row">
+          <Product />
+          <Product />
+          <Product />
+          </div>
+
+          <div className="home_row">
+          <Product />
+          </div>
+
         </div>
       </div>
     </div>
